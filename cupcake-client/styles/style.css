@@ -22,7 +22,7 @@ Start Header
     background-color: gainsboro;
     height: 100vh;
     margin-bottom: 30px;
-     position: relative;
+    position: relative;
     overflow: hidden;
     margin-top: 15px
 }
@@ -57,7 +57,7 @@ Start Header
 .header .images img {
     max-width: 100%;
     transform: translateY(-10%);
-    height: auto border: 0 -ms-interpolation-mode: bicubic;
+    height: auto border 0 -ms-interpolation-mode bicubic;
     -webkit-transition: all 250ms ease-in-out 0s;
     -moz-transition: all 250ms ease-in-out 0s;
     -ms-transition: all 250ms ease-in-out 0s;
