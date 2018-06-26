@@ -19,7 +19,7 @@ ul,ol{
 Start Header
 *************************/
 .header {
-    background-color: gainsboro;
+    background-color: #EDAFFD;
     height: 100vh;
     margin-bottom: 30px;
     position: relative;
@@ -360,7 +360,7 @@ End Blog
 Start Fotter
 *******************/
 .fotter {
-    background-color: gainsboro
+    background-color: #EDAFFD
 }
 .fotter .topfooter h2 {
     letter-spacing: 2px;
@@ -382,6 +382,23 @@ Start Fotter
 }
 .fotter .endfooter span:nth-child(2){
     font-size: 18px
+}
+
+/****************
+Parallax
+*****************/
+
+.parallax-one {
+    padding: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url("images/carmel.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 /*******************************************************
