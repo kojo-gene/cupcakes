@@ -388,7 +388,7 @@ Start Fotter
 Parallax
 *****************/
 
-.parallax-one {
+#parallax-page .parallax-one {
     padding: 200px;
     padding-bottom: 200px;
     overflow: hidden;
